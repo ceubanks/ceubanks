@@ -87,12 +87,19 @@ innovative tech generalist with a robust background in frontend and backend deve
   <h3>current personal projects</h3>
   <ul>
     <li><strong>system design - the okay, the okayer, and the okayest:</strong> a collection of re-designed, popular and unpopular systems</li>
-    <li><strong>system design - the feynman method:</strong> breaking down designs into easily digestible material
+    <li><strong>system design simulation</strong></li>
     <li><strong>digesting algorithms - the feynman method:</strong> breaking down algorithms into easily digestible material and verbiage</li>
   </ul>
 
   <br>
 
+  <h3>latest blog posts</h3>
+  <ul>
+	<li><strong><a href="https://www.averageprogrammer.com/blog/caching-spongebob-edition">caching: spongebob edition</a></strong></li>
+  	<li><strong><a href="https://www.averageprogrammer.com/blog/the-new-concept-of-the-average-programmer">the new concept of the average programmer</a></strong></li>
+  </ul>
+
+  
   <h3>blog posts incoming</h3>
   <br>
   <ul>
